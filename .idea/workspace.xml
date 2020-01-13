@@ -1,20 +1,80 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0d55fd11-7ddb-4f53-845a-1a254e390a31" name="Default Changelist" comment="" />
+    <list default="true" id="0d55fd11-7ddb-4f53-845a-1a254e390a31" name="Default Changelist" comment="init">
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/KotlinJavaRuntime__2_.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ChainOfResponsibility/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/ChainOfResponsibility/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ChainOfResponsibility/src/Chain.kt" beforeDir="false" afterPath="$PROJECT_DIR$/ChainOfResponsibility/src/Chain.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ChainOfResponsibility/src/Interceptor.kt" beforeDir="false" afterPath="$PROJECT_DIR$/ChainOfResponsibility/src/Interceptor.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Kotlin Interface" />
+        <option value="Kotlin Class" />
+        <option value="Kotlin File" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="C:\workplace\java\DesignPatterns\.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
   <component name="ProjectId" id="1VeoWFRYFL2DBXDaLiVAkCj8Dug" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RunManager">
+    <configuration name="MainKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <module name="ChainOfResponsibility" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="MainKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Kotlin.MainKt" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="ServiceViewManager">
     <option name="viewStates">
@@ -39,6 +99,110 @@
       <option name="presentableId" value="Default" />
       <updated>1577622951668</updated>
     </task>
+    <task id="LOCAL-00001" summary="init">
+      <created>1577623028544</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1577623028544</updated>
+    </task>
+    <task id="LOCAL-00002" summary="feat: 添加责任链设计模式">
+      <created>1578580127029</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1578580127029</updated>
+    </task>
+    <task id="LOCAL-00003" summary="添加reademe">
+      <created>1578580327640</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1578580327640</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_NEW_TODO" value="false" />
+    <MESSAGE value="init" />
+    <MESSAGE value="feat: 添加责任链设计模式" />
+    <MESSAGE value="添加reademe" />
+    <option name="LAST_COMMIT_MESSAGE" value="添加reademe" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="714" y="173" key="#com.intellij.ide.util.MemberChooser" timestamp="1578577556627">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="714" y="173" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1578577556627" />
+    <state x="640" y="241" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1578402092005">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="640" y="241" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1578402092005" />
+    <state x="543" y="52" key="CommitChangelistDialog2" timestamp="1578924734668">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="543" y="52" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1578924734668" />
+    <state width="1867" height="269" key="GridCell.Tab.0.bottom" timestamp="1578579831572">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1867" height="269" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1578579831572" />
+    <state width="1867" height="269" key="GridCell.Tab.0.center" timestamp="1578579831572">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1867" height="269" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1578579831572" />
+    <state width="1867" height="269" key="GridCell.Tab.0.left" timestamp="1578579831572">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1867" height="269" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1578579831572" />
+    <state width="1867" height="269" key="GridCell.Tab.0.right" timestamp="1578579831572">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1867" height="269" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1578579831572" />
+    <state width="1867" height="333" key="GridCell.Tab.1.bottom" timestamp="1578579264889">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1867" height="333" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1578579264889" />
+    <state width="1867" height="333" key="GridCell.Tab.1.center" timestamp="1578579264888">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1867" height="333" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1578579264888" />
+    <state width="1867" height="333" key="GridCell.Tab.1.left" timestamp="1578579264888">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1867" height="333" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1578579264888" />
+    <state width="1867" height="333" key="GridCell.Tab.1.right" timestamp="1578579264889">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1867" height="333" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1578579264889" />
+    <state x="348" y="78" key="SettingsEditor" timestamp="1578579952497">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="348" y="78" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1578579952497" />
+    <state x="452" y="179" key="Vcs.Push.Dialog.v2" timestamp="1578580328935">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="452" y="179" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1578580328935" />
+    <state x="161" y="62" key="new project wizard" timestamp="1577623122241">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="161" y="62" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1577623122241" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/ChainOfResponsibility/src/RealInterceptorChain.kt</url>
+          <line>19</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/ChainOfResponsibility/src/RealInterceptorChain.kt</url>
+          <line>7</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
