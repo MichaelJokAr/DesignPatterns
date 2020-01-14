@@ -7,7 +7,8 @@
 - 多个对象都可以处理这个请求，但具体哪个处理则在运行时决定。
 - 在请求处理者不明确的情况下向多个对象中的一个提交请求
 - 需要动态指定一组对象处理请求
-00
+
+### **UML**
 
 ![](https://upload-images.jianshu.io/upload_images/17985603-a4f1c2ba585aa172.jpg?imageMogr2/auto-orient/strip|imageView2/2/w/700/format/webp)
 
